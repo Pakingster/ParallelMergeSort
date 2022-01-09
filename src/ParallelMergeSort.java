@@ -1,6 +1,5 @@
 /*
 Student Alexey Vartanov
-ID: 321641086
 Maman 15 - Question 1 - Parallel MergeSort
  */
 import java.util.Random;
